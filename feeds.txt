@@ -1,0 +1,13 @@
+# DevOps Job Feeds
+
+# We Work Remotely – DevOps/Sysadmin
+https://weworkremotely.com/categories/devops-sysadmin/jobs.rss
+
+# Hacker News – Who is hiring
+https://hnrss.org/job
+
+# Reddit – r/devopsjobs
+https://www.reddit.com/r/devopsjobs/new/.rss
+
+# Remote OK – DevOps jobs
+https://remoteok.com/remote-devops-jobs.rss
