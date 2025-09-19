@@ -12,4 +12,4 @@ pip install -r requirements.txt
 KEYWORDS="devops,cloud engineer,sre" HOURS=24 python app.py --once
 # API
 uvicorn app:app --host 0.0.0.0 --port 8000
-# then open http://localhost:8000/job
+# then open http://localhost:8000/jobs
