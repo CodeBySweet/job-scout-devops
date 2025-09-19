@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install app deps (optional, helps SBOM discover)
+      - name: Install app deps 
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
